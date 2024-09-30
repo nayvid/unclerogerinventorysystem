@@ -73,7 +73,12 @@
 		    <artifactId>jjwt</artifactId>
 		    <version>0.9.1</version> <!-- Check for the latest version -->
 		</dependency>
- 
+
+		<dependency>
+			<groupId>com.springproject</groupId>
+			<artifactId>springbootstarterapp</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 	<build>
